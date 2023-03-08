@@ -1,0 +1,78 @@
+.body1{
+    background-image: url("https://edge.mwallpapers.com/photos/celebrities/colors/black-background-wood-4k-hd-desktop-wallpaper-for-4k-ultra-hd-tv-android-iphone-hd-wallpaper-background-downloadhd-wallpapers-desktop-background-android-iphone-1080p-4k-ltftq.jpg");
+    display: inline-flex;
+    padding: 18px;
+    background-size: cover;
+}
+.img
+{
+    margin-top: 20px;
+    margin-left: 20px;
+    width:40vw;
+    height: 40vh;
+    position:relative;
+}
+.box1a{
+  height: 85vh;
+  width: 100vh;
+  margin-left: 100px;
+  margin-top: 100px;
+}
+  .carda
+  {
+    text-align: left;
+    font-size:19px;
+    background-color: rgba(242, 242, 242, 0.658);
+      padding: 100px;
+      padding-top: 10px;
+      padding-right: 120px;
+      color: rgb(0, 0, 0);
+      opacity: 0.7;
+      width: 250px;
+      height: 460px;
+      border-radius: 20px;
+      margin-left: 200px;
+  }
+  .usernamea
+  {
+    width:1000px;
+    height:100px
+  }
+  .centera
+  {
+    text-align: center;
+  }
+  .btna
+  {
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    height:50px;
+    width:100px;
+    cursor: pointer;
+    border-radius: 12px;
+  }
+  input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+  input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+  h2.psw {
+
+    display: block;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    font-size: large;
+  
+  }
+  a:visited
+    {
+      color: rgb(0, 0, 0);
+    }
